@@ -1,0 +1,14 @@
+# Ignore Drivers
+drivers
+
+# Ignore Build files
+EWARM
+MDK-ARM
+
+# Ignore Middlewares
+Middlewares
+
+# Ignore .mxproject
+.mxproject
+
+# Yay :)
