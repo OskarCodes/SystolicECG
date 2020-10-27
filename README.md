@@ -1,4 +1,4 @@
-# SystolicECG
+# Systolic
 The code for the STM32 microcontroller in my ultra-low-cost electrocardiogram (ECG): Systolic
 
 ## What is Systolic?
@@ -12,7 +12,7 @@ cd SystolicECG/
 And you are done! The project can then be opened in your IDE of choice.
 
 ## Contributing
-I immensely appreciate any contribution to this project, no matter the size. Please feel free to make a pull request!
+I immensely appreciate any contribution to this project, no matter the size. Please feel free to make a pull request! If you have any questions, please do not hesitate to reach out.
 
 ## Licensing
 This project is licensed under the AGPL license. I chose this because I want all changes to Systolic and supporting software, no matter who by, to be accessible to everyone.
