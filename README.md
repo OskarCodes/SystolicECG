@@ -15,4 +15,4 @@ And you are done! The project can then be opened in your IDE of choice.
 I immensely appreciate any contribution to this project, no matter the size. Please feel free to make a pull request! If you have any questions, please do not hesitate to reach out.
 
 ## Licensing
-This project is licensed under the AGPL license. I chose this because I want all changes to Systolic and supporting software, no matter who by, to be accessible to everyone.
+This project is licensed under the GPL-3.0 license. I chose this because I want all changes to Systolic and supporting software, no matter who by, to be accessible to everyone.
